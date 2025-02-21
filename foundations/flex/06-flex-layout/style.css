@@ -37,6 +37,7 @@ input {
   border-radius: 16px;
   padding: 8px 24px;
   width: 400px;
+  margin-top: 15px;
 }
 
 ul,
@@ -52,12 +53,14 @@ a {
 .header {
   display: flex;
   justify-content: space-between;
+  padding: 5px;
 }
 
 .footer {
   background-color: #eeeeee;
   display: flex;
   justify-content: space-between;
+  padding: 5px;
 }
 
 .left-links {
